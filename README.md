@@ -1,15 +1,15 @@
 
-# 🎯 Target Customer Retention Analytics Dashboard
+# Target Customer Retention Analytics Dashboard
 
 An interactive **Power BI dashboard** developed to analyze customer retention, churn behavior, repeat purchases, loyalty program effectiveness, and Customer Lifetime Value (CLV) using retail customer data.
 
 The project integrates multiple datasets including customer demographics, transactions, loyalty program information, store details, and churn records to generate actionable business insights that help improve customer retention strategies.
 
-<img src="Chur and Retention Analysis.png" alt="Churn & Retention Dashboard" width="600"/>
+<img src="Chur and Retention Analysis.png" alt="Churn & Retention Dashboard" width="800"/>
 
 ---
 
-## 📌 Project Objectives
+## Project Objectives
 
 - Analyze customer churn and retention trends.
 - Identify repeat purchase behavior across customer segments.
@@ -20,7 +20,7 @@ The project integrates multiple datasets including customer demographics, transa
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Microsoft Power BI
 - Power Query
@@ -28,7 +28,7 @@ The project integrates multiple datasets including customer demographics, transa
 - Data Modeling
 - CSV Dataset
 
- ## 📂 Data Model
+ ##  Data Model
 
 The dashboard integrates the following datasets:
 
@@ -43,7 +43,7 @@ Relationships were created using:
 - Customer_ID
 - Store_ID
 
-# 📸 Dashboard Screenshots
+#  Dashboard Overview
 
 ## 1. Churn & Retention Analysis
 
@@ -94,4 +94,41 @@ This dashboard measures Customer Lifetime Value (CLV) to identify high-value cus
 </p>
 
 ---
+## Business Insights
+
+- Customer churn varies across different regions and loyalty tiers.
+- Premium and Elite loyalty members demonstrate better customer retention.
+- Promotional campaigns positively influence transaction frequency.
+- Repeat customers contribute significantly to overall revenue.
+- High CLV customers generate greater long-term business value.
+
+---
+
+## Recommendations
+
+- Prioritize retention strategies for high-value and repeat customers.
+- Improve underperforming sales channels using personalized promotions.
+- Strengthen loyalty engagement through exclusive rewards, bonus points, and targeted offers.
+- Increase customer engagement using data-driven marketing campaigns.
+- Enhance customer experience across online and offline shopping channels.
+
+Target-Retail-Customer-Retention-Analytics/
+│
+├── Dashboard.pbix
+├── README.md
+├── Chur and Retention Analysis.png
+├── Repeat Purchase Analysis.png
+├── Promotion and Loyalty Impact.png
+├── Store and Channel Performance.png
+├── CLV.png
+└── Report.pdf
+
+## 👩‍💻 Author
+
+**Afifa Tabassum H A**
+
+LinkedIn: *https://www.linkedin.com/in/afifa-tabassum-0978bb270/*
+
+Email: *afifatabssum158@gmail.com*
+
 
