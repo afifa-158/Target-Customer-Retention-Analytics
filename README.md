@@ -25,3 +25,19 @@ The project integrates multiple datasets including customer demographics, transa
 - DAX (Data Analysis Expressions)
 - Data Modeling
 - CSV Dataset
+
+ ## 📂 Data Model
+
+The dashboard integrates the following datasets:
+
+- Customer Demographics
+- Customer Transactions
+- Loyalty Program
+- Store Locations
+- Churn Customers
+
+Relationships were created using:
+
+- Customer_ID
+- Store_ID
+
