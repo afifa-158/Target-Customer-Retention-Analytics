@@ -53,7 +53,7 @@ This dashboard provides an overview of customer retention performance through ke
 
 
 <p align="center">
-  <img src="Chur and Retention Analysis.png" alt="Churn & Retention Dashboard" width="900"/>
+  <img src="images/Chur and Retention Analysis.png" alt="Churn & Retention Dashboard" width="900"/>
 </p>
 
 ---
@@ -64,7 +64,7 @@ This page analyzes repeat purchasing behavior by segmenting customers into purch
 
 
 <p align="center">
-  <img src="Repeat Purchase Analysis.png" alt="Repeat Purchase Analysis" width="900"/>
+  <img src="images/Repeat Purchase Analysis.png" alt="Repeat Purchase Analysis" width="900"/>
 </p>
 
 ---
@@ -75,7 +75,7 @@ This dashboard evaluates the effectiveness of promotional campaigns and loyalty 
 
 
 <p align="center">
-  <img src="Promotion and Loyalty Impact.png" alt="Promotion & Loyalty Impact" width="900"/>
+  <img src="images/Promotion and Loyalty Impact.png" alt="Promotion & Loyalty Impact" width="900"/>
 </p>
 
 ---
@@ -86,7 +86,7 @@ This dashboard compares sales performance and customer retention across differen
 
 
 <p align="center">
-  <img src="Store and Channel Performance.png" alt="Store & Channel Performance" width="900"/>
+  <img src="images/Store and Channel Performance.png" alt="Store & Channel Performance" width="900"/>
 </p>
 
 ---
@@ -97,7 +97,7 @@ This dashboard measures Customer Lifetime Value (CLV) to identify high-value cus
 
 
 <p align="center">
-  <img src="CLV.png" alt="Customer Lifetime Value Dashboard" width="900"/>
+  <img src="images/CLV.png" alt="Customer Lifetime Value Dashboard" width="900"/>
 </p>
 
 ---
