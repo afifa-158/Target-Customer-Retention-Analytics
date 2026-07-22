@@ -5,6 +5,8 @@ An interactive **Power BI dashboard** developed to analyze customer retention, c
 
 The project integrates multiple datasets including customer demographics, transactions, loyalty program information, store details, and churn records to generate actionable business insights that help improve customer retention strategies.
 
+<img src="Chur and Retention Analysis.png" alt="Churn & Retention Dashboard" width="600"/>
+
 ---
 
 ## 📌 Project Objectives
